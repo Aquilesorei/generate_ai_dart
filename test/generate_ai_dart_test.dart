@@ -1,12 +1,10 @@
-import 'package:flutter_test/flutter_test.dart';
 
 
 import 'package:generate_ai_dart/generate_ai_dart.dart';
-import 'package:generate_ai_dart/internal/api/APIController.dart';
 void main() {
 
 
-  const key = "AIzaSyA8rLjw-PmkAFgSd3z3j0AfuHPHqdREISg";
+  const key = "your key here";
   final config = generationConfig((builder){
     builder.temperature =0.7;
   });
