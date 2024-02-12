@@ -2,7 +2,6 @@ import 'dart:typed_data';
 
 import 'package:generate_ai_dart/internal/utils/conversions.dart';
 import 'package:generate_ai_dart/type/type.dart';
-import 'package:rxdart/rxdart.dart';
 
 import 'Chat.dart';
 import 'internal/api/APIController.dart';

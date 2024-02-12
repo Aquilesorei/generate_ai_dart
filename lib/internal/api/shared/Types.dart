@@ -1,7 +1,6 @@
-import 'dart:ffi';
+
 import 'dart:typed_data';
 
-import 'package:generate_ai_dart/generate_ai_dart.dart';
 
 typedef Base64 = String;
 enum InternalHarmCategory {
