@@ -1,4 +1,4 @@
-# Unofficial Google AI SDK for flutter
+# Google AI SDK for flutter
 
 The Google AI client SDK for flutter enables developers to use Google's state-of-the-art generative AI models (like Gemini) to build AI-powered features and applications. This SDK supports use cases like:
 - Generate text from text-only input
