@@ -1,0 +1,22 @@
+[
+  {
+    "author": {
+      "firstName": "user",
+      "id": "82091008-a484-4a89-ae75-a22bf8d6f3ac"
+    },
+    "createdAt":1707731844013,
+    "id": "c67ed376-52bf-4d4e-ba2a-7a0f8467b22a",
+    "text": "Hello",
+    "type": "text"
+  },
+  {
+    "author": {
+      "firstName": "model",
+      "id": "e52552f4-835d-4dbe-ba77-b076e659774d"
+    },
+    "createdAt":1707731911725,
+    "id": "02797655-4d73-402e-a319-50fde79e2bc4",
+    "text" : "Hello!   It's nice to hear from you. What would you like to talk about today? \n",
+    "type": "text"
+  }
+]
